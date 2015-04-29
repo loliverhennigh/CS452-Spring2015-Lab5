@@ -1,1 +1,5 @@
+Oliver, 
+
+This does the shadow mapping however it does not use angles shaders. I have included the shaders in this directory as well as some other required things. The code was drawn from webgl programming guide.
+
 name, date, description
